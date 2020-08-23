@@ -104,6 +104,7 @@ def main():
     b11.grid(row=3,column=0,columnspan=18,sticky = E)
     e1 = Entry(root,font=("Arial"),textvariable = y)
     e1.grid(row=3,column = 0,columnspan =6)
+    e3
    
 main()
 
